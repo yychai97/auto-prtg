@@ -1,2 +1,5 @@
 # Project exclude paths
 /venv/
+/test-tkinter.py
+/restful-tutorial.py
+/main-restfulv1.1.rar
